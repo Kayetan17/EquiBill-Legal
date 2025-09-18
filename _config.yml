@@ -1,0 +1,7 @@
+title: EquiBill Privacy Policy
+description: Privacy Policy
+theme: minima
+minima:
+  skin: auto
+# optional: tidy permalinks
+permalink: pretty
