@@ -69,5 +69,4 @@ These Terms are governed by the laws of the Province of Ontario, without regard 
 We may update these Terms. If changes are material, we will provide notice by email, in-app, or by updating the effective date.
 
 ## 18. Contact
-**EquiBill**  
 **equibillapp@gmail.com**
