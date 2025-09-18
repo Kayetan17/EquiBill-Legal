@@ -13,7 +13,7 @@ title: Terms of Service
 We are a non-profit organization dedicated to making splitting expenses between housemates effortless and efficient.
 
 ## 2. What EquiBill does
-EquiBill allows users to join a “house” with their housemates, and everyone has access to create a new expense, which will notify the other housemates that they owe money. The app keeps track of whether or not people have paid and gives the expense owner the opportunity to nudge those who haven’t, sending them another notification.
+EquiBill allows users to join a “house” with their housemates, and allows house members to create expenses between themselves. The app keeps track of whether or not people have paid and gives the expense owner the opportunity to nudge those who haven’t, sending them a notification.
 
 ## 3. Eligibility & accounts
 - You must be at least 13 years old (or older if your local law requires).
