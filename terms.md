@@ -10,7 +10,7 @@ title: Terms of Service
 **Last updated:** September 7, 2025
 
 ## 1. Who we are
-We are a non-profit organization dedicated to making splitting expenses between housemates effortless and efficient.
+EquiBill is a student-run project dedicated to making splitting expenses between housemates effortless and efficient. The app is provided free of charge and maintained by a small independent team.
 
 ## 2. What EquiBill does
 EquiBill allows users to join a “house” with their housemates, and allows house members to create expenses between themselves. The app keeps track of whether or not people have paid and gives the expense owner the opportunity to nudge those who haven’t, sending them a notification.
