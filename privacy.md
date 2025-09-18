@@ -5,7 +5,6 @@ title: Privacy Policy
 
 <link rel="stylesheet" href="/legal-site/assets/css/custom.css">
 
-# Privacy Policy
 **Effective date:** September 7, 2025  
 **Last updated:** September 7, 2025
 
