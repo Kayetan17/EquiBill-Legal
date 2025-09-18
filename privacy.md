@@ -73,5 +73,4 @@ The App may link to third-party sites or services. Their privacy practices are g
 We may update this Policy from time to time. If changes are material, we will notify you (e.g., in-app or by email) and update them.
 
 ## 12. Contact
-**EquiBill**  
 **equibillapp@gmail.com**
