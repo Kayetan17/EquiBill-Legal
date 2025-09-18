@@ -5,7 +5,6 @@ title: Terms of Service
 
 <link rel="stylesheet" href="/legal-site/assets/css/custom.css">
 
-# Terms of Service
 **Effective date:** September 7, 2025  
 **Last updated:** September 7, 2025
 
