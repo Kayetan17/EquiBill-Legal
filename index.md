@@ -9,8 +9,8 @@ title: Legal
 
 Welcome to EquiBill's legal center.
 
-- **[Privacy Policy]({{ site.baseurl }}/privacy/)**  
-- **[Terms of Service]({{ site.baseurl }}/terms/)**  
-- **[Support]({{ site.baseurl }}/support/)**
+- **[Privacy Policy](https://kayetan17.github.io/EquiBill-Legal/privacy/)**
+- **[Terms of Service](https://kayetan17.github.io/EquiBill-Legal/terms/)**
+- **[Support](https://kayetan17.github.io/EquiBill-Legal/support/)**
 
 _Last updated: {{ site.time | date: "%B %d, %Y" }}_
