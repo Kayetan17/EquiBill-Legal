@@ -17,4 +17,3 @@ Need help with EquiBill?
 - Steps to reproduce the issue
 - Screenshots (if possible)
 
-_Last updated: {{ "now" | date: "%Y-%m-%d" }}_
