@@ -59,17 +59,14 @@ We retain information for as long as your account is active and as necessary to 
 
 To exercise rights, contact us at **equibillapp@gmail.com**.
 
-## 8. Children’s privacy
-The App is not directed to children under 13 (or the age of digital consent in your region). If we learn that we collected personal data from a child under that age, we will delete it.
-
-## 9. Security
+## 8. Security
 We use reasonable administrative, technical, and organizational measures to protect your information (e.g., access controls, encryption in transit, least-privilege practices with our providers). No method of transmission or storage is 100% secure.
 
-## 10. Third-party links and services
+## 9. Third-party links and services
 The App may link to third-party sites or services. Their privacy practices are governed by their own policies.
 
-## 11. Changes to this Policy
+## 10. Changes to this Policy
 We may update this Policy from time to time. If changes are material, we will notify you (e.g., in-app or by email) and update them.
 
-## 12. Contact
+## 11. Contact
 **equibillapp@gmail.com**
