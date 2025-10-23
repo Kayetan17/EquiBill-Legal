@@ -6,7 +6,7 @@ title: Terms of Service
 <link rel="stylesheet" href="/legal-site/assets/css/custom.css">
 
 **Effective date:** September 7, 2025  
-**Last updated:** September 7, 2025
+**Last updated:** October 23, 2025
 
 ## 1. Who we are
 EquiBill is a student-run project dedicated to making splitting expenses between housemates effortless and efficient. The app is provided free of charge and maintained by a small independent team.
@@ -15,7 +15,6 @@ EquiBill is a student-run project dedicated to making splitting expenses between
 EquiBill allows users to join a “house” with their housemates, and allows house members to create expenses between themselves. The app keeps track of whether or not people have paid and gives the expense owner the opportunity to nudge those who haven’t, sending them a notification.
 
 ## 3. Eligibility & accounts
-- You must be at least 13 years old (or older if your local law requires).
 - You must provide accurate information (e.g., your full name and email).
 - You are responsible for your account, your device, and safeguarding your login.
 - You may belong to only one house at a time. If you leave, you can join a different house later.
