@@ -6,7 +6,7 @@ title: Privacy Policy
 <link rel="stylesheet" href="/legal-site/assets/css/custom.css">
 
 **Effective date:** September 7, 2025  
-**Last updated:** September 7, 2025
+**Last updated:** October 23, 2025
 
 ## 1. Scope
 This Privacy Policy describes how **EquiBill** collects, uses, shares, and protects information when you use our mobile application and related services.
